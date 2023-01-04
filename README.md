@@ -1,0 +1,1 @@
+TSConfig CLI to make my configurations
